@@ -15,7 +15,7 @@ After [phantomjs](http://phantomjs.org/) is installed, you will need to install 
 Now install the grunt task
 
 ```shell
-npm install grunt-casper --save
+npm install @crazyfactory/grunt-casper --save
 ```
 
 ## Getting Started
